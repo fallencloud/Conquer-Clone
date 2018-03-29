@@ -10,38 +10,8 @@ body {
   font-size: 1em;
 }
 
-main {
-  margin-left: 1%;
-  margin-right: 1%;
-}
-
-img {
-  max-width: 100%;
-}
-
-/*Header and Nav*/
-header {
-  background: #383E4C;
-  color: #fff;
-}
-
-nav ul {
-  padding: 0;
-  margin-top: 0;
-}
-
-nav ul li{
-  list-style: none;
-  border-top: 1px white solid;
-  padding: 10px 0;
-}
-
-/**************************
-Four Column Layout
-**************************/
-.four-column div,
-.three-column div,
-.two-column div {
-  padding-left: 1%;
-  padding-right: 1%;
+.jumbotron {
+  background: url(../img/bg-1.jpg) no-repeat;
+  background-size: cover;
+  border-radius: 0;
 }
