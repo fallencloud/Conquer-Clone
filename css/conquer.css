@@ -10,8 +10,16 @@ body {
   font-size: 1em;
 }
 
-.jumbotron {
+.jumbotron {  
+  border-radius: 0;
+}
+
+#heading {
   background: url(../img/bg-1.jpg) no-repeat;
   background-size: cover;
-  border-radius: 0;
+}
+
+#services {
+  background: url(../img/bg-2.jpg) no-repeat;
+  background-size: cover;
 }
