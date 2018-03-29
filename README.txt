@@ -1,0 +1,1 @@
+This project is to practice my Bootstrap 4 skills. It's a clone of the Conquer Bootstrap template found here: http://www.free-css.com/free-css-templates/page196/conquer
